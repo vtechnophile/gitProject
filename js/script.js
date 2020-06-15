@@ -1,4 +1,3 @@
 
-const a = 100;
-
+const c = 'Hi there';
 const b = () => {};
